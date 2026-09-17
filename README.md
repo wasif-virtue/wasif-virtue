@@ -104,35 +104,7 @@ Building websites, software, automation systems, AI solutions, and eventually de
 
 ---
 
-### 🤖 Virtue AI Studio
-**AI-powered product ecosystem**
 
-A long-term project exploring practical AI systems, automation, AI agents, and intelligent software.
-
----
-
-### ⚙️ Virtue One
-**Integrated Business Operating System**
-
-A planned internal platform designed to centralize business operations, projects, clients, workflows, documents, and organizational systems.
-
----
-
-### 🎓 FEC Virtual University Haripur
-A real-world web application project involving:
-
-- React
-- TypeScript
-- React Hook Form
-- Zod
-- Supabase
-- Authentication
-- Database systems
-- Storage
-- Row Level Security
-- Admin workflows
-
----
 
 ## 🧠 My Engineering Philosophy
 
