@@ -100,7 +100,7 @@ I'm particularly interested in understanding **how systems work underneath the a
 
 Building websites, software, automation systems, AI solutions, and eventually deeper technology products.
 
-🌐 **Website:** [virtue-vision.com](https://virtue-vision.com)
+🌐 **Website:** [virtue-vision.com](https://virtue-vision.com "Virtue Vision's Website Homepage")
 
 ---
 
@@ -219,6 +219,7 @@ I'm interested in connecting with:
 - 💼 LinkedIn — [Connect with me](https://www.linkedin.com/in/wasif-virtue)
 - 🌐 Virtue Vision — [virtue-vision.com](https://virtue-vision.com)
 - 🐙 GitHub — [@wasif-virtue](https://github.com/wasif-virtue)
+- 📩 Email — <contact@virtue-vision.com>
 
 ---
 
