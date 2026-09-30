@@ -1,8 +1,8 @@
-# Hi, I'm Wasif 👋
+# Hi, I'm ***Muhammad Wasif Raza.***<sup>👋</sup>
 
 ### Software Developer • Founder & Builder • Future Technologist
 
-I'm a developer and founder focused on building **useful software, AI-powered systems, and digital products**.
+I'm a developer and founder, focused on building **useful software, AI-powered systems, and digital products**.
 
 I’m currently developing my skills across **full-stack development, AI, cloud computing, cybersecurity, DevOps, and emerging technologies** while building real-world products through **Virtue Vision**.
 
